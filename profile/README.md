@@ -1,4 +1,6 @@
-![Multiscale Structural Mechanics](https://github.com/wenbinyugroup/.github/blob/main/600x200.jpg) 
+![Multiscale Structural Mechanics]<p align="center" width="100%">
+    <img  src="[https://i.stack.imgur.com/RJj4x.png](https://github.com/wenbinyugroup/.github/blob/main/600x200.jpg)">
+</p>
 
 ## Get Involved
 
