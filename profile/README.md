@@ -1,5 +1,5 @@
-![Multiscale Structural Mechanics]<p align="center" width="100%">
-    <img  src="https://github.com/wenbinyugroup/.github/blob/main/600x200.jpg">
+<p align="center" width="100%">
+    <img  width="150%" src="https://github.com/wenbinyugroup/.github/blob/main/600x200.jpg">
 </p>
 
 ## Get Involved
