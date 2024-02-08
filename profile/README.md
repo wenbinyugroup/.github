@@ -4,7 +4,7 @@
 
 ## Get Involved
 
-Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
+This group hosts open-source codes developed by Prof. Yu and his co-workers. We welcome your controbutions and feedbacks. 
 
 * [Explore our codes](https://github.com/orgs/wenbinyugroup/repositories)
 * [Start discussions related to our codes](https://github.com/orgs/wenbinyugroup/discussions)
