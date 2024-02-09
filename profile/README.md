@@ -9,6 +9,6 @@ This group hosts open-source codes developed by Prof. Yu and his co-workers base
 * [Explore our codes](https://github.com/orgs/wenbinyugroup/repositories)
 * [Start discussions related to our codes](https://github.com/orgs/wenbinyugroup/discussions)
 * Know more about us on [LinkedIn](https://www.linkedin.com/groups/8521014/), [cdmHUB](https://cdmhub.org/groups/yugroup), [YouTube](https://www.youtube.com/c/MultiscaleStructuralMechanics), [ResearchGate](https://www.researchgate.net/profile/Wenbin-Yu-4) and [Twitter](https://twitter.com/WenbinYuHeaven).
-* Request free trial of commerically available [VABS and SwiftComp](https://analyswift.com/software-trial/).
+* [Request free trial of VABS and SwiftComp](https://analyswift.com/software-trial/).
 
 Visit [Prof. Wenbin Yu's Website at Purdue University](https://engineering.purdue.edu/AAE/people/ptProfile?resource_id=93761) to learn more!
